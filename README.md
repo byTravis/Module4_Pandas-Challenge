@@ -45,19 +45,19 @@ Include the following:
 Create DataFrames for the following:
 
 - Highest-Performing Schools
- - Schools sorted highest to lowest by % Overall Passing
+  - Schools sorted highest to lowest by % Overall Passing
 - Lowest-Performing Schools
- - Schools sorted lowest to highest by % Overall Passing
+  - Schools sorted lowest to highest by % Overall Passing
 - Math Scores by Grade
- - Summery of school grades broken down by student year.
+  - Summery of school grades broken down by student year.
 - Reading Scores by Grade
- - Summery of school grades broken down by student year.
+  - Summery of school grades broken down by student year.
 - Scores by School Spending
- - Categorize school spending by cost per student using pd.cut
+  - Categorize school spending by cost per student using pd.cut
 - Scores by School Size
- - Categorize school by size of student body using pd.cut
+  - Categorize school by size of student body using pd.cut
 - Scores by School Type
- - Summery of scores categorized by charter and district schools.
+  - Summery of scores categorized by charter and district schools.
 
 
 ## Observations
