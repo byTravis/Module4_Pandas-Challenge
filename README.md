@@ -12,7 +12,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 ## Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-### District Summary
+#### District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
@@ -26,7 +26,7 @@ Include the following:
 - % overall passing (the percentage of students who passed math AND reading)
 
 
-### School Summary
+#### School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
@@ -41,8 +41,9 @@ Include the following:
 - % passing reading (the percentage of students who passed reading)
 - % overall passing (the percentage of students who passed math AND reading)
 
-### Additional Charts
+#### Additional Charts
 Create DataFrames for the following:
+
 **Highest-Performing Schools**
 - Schools sorted highest to lowest by % Overall Passing
 **Lowest-Performing Schools**
