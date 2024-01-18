@@ -30,26 +30,33 @@ Include the following:
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
+- School name
+- School type
+- Total students
+- Total school budget
+- Per student budget
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
+- % overall passing (the percentage of students who passed math AND reading)
 
-School name
-
-School type
-
-Total students
-
-Total school budget
-
-Per student budget
-
-Average math score
-
-Average reading score
-
-% passing math (the percentage of students who passed math)
-
-% passing reading (the percentage of students who passed reading)
-
-% overall passing (the percentage of students who passed math AND reading)
+### Additional Charts
+Create DataFrames for the following:
+** Highest-Performing Schools  **
+- Schools sorted highest to lowest by % Overall Passing
+** Lowest-Performing Schools  **
+- Schools sorted lowest to highest by % Overall Passing
+** Math Scores by Grade **
+- Summery of school grades broken down by student year.
+** Reading Scores by Grade **
+- Summery of school grades broken down by student year.
+** Scores by School Spending **
+- Categorize school spending by cost per student using pd.cut
+** Scores by School Size **
+- Categorize school by size of student body using pd.cut
+** Scores by School Type **
+- Summery of scores categorized by charter and district schools.
 
 
 ## Observations
